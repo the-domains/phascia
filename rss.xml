@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PHASCIA]]></title>
         <description><![CDATA[PHASCIA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phascia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 18:04:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 19:02:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phascia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What's Your Biggest Regret?]]></title>
+            <description><![CDATA[<article><h1>What's Your Biggest Regret?</h1><p>A blackboard stood in the middle of New York City asking passersby to write down their biggest regrets. As the board filled up, we noticed that all of these responses had one alarming thing in common. on Thu, Jan 28 2016 · 3,148 Views</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed2b7d777f142006c34e193ba78e5f631c52c18d.jpg"></article>]]></description>
+            <link>http://www.filmsforaction.org/watch/whats-your-biggest-regret/</link>
+            <guid isPermaLink="false">fb439fd3-1918-455d-903b-eea42126ee1e</guid>
+            <pubDate>Thu, 28 Jan 2016 19:02:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Connecting the Sustainable Mindset for Humanity]]></title>
-            <description><![CDATA[<article><h1>Connecting the Sustainable Mindset for Humanity</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51916f32e7551a26bba4e47a42546550711a18d7.jpg"></article>]]></description>
-            <link>undefinedconnecting-the-sustainable-mindset-for-humanity/index.html</link>
+            <description><![CDATA[<article><h1>Connecting the Sustainable Mindset for Humanity</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/255cc8a1b14337cf706108ed2f6c81bd313c759e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/phascia/connecting-the-sustainable-mindset-for-humanity/index.html</link>
             <guid isPermaLink="false">bc022f5e-1f76-4461-bf75-4ebaa93543a9</guid>
             <pubDate>Thu, 28 Jan 2016 18:04:32 GMT</pubDate>
         </item>
