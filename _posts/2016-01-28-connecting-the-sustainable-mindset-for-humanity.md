@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T18:04:32.875Z'
-dateModified: '2016-01-28T17:25:35.708Z'
+datePublished: '2016-01-28T19:56:50.785Z'
+dateModified: '2016-01-28T19:56:47.151Z'
 title: Connecting the Sustainable Mindset for Humanity
 authors: []
 publisher:
