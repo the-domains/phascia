@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T19:56:50.785Z'
+datePublished: '2016-01-28T19:56:50.791Z'
 dateModified: '2016-01-28T19:56:47.151Z'
 title: Connecting the Sustainable Mindset for Humanity
 authors: []
