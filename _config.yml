@@ -1,0 +1,28 @@
+name: PHASCIA
+favicon: null
+layout_spectrum: 0.08018826367333531
+typography_spectrum: 0.44621787453070283
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6682874092366546
+  lightness: 0.4938645886722952
+  saturation: 0.32032131496816874
+  rhythmicContrast: 0.20801424281671643
+purpose: []
