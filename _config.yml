@@ -1,7 +1,7 @@
 name: 'PHASCIA  '
 favicon: null
-layout_spectrum: 0.87879
-typography_spectrum: 0.59931
+layout_spectrum: 0.22896
+typography_spectrum: 0.79796
 title: 'PHASCIA '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#00fefe'
     - '#0275fa'
     - '#0031f6'
-  brandStrength: 0.3125
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
